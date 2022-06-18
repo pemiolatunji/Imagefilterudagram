@@ -1,0 +1,3 @@
+Application name :: Image-Filter-Udagram
+
+Elastic Beanstalk URL  http://imagefilterudagram-env.eba-p56a2kze.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://iheartcraftythings.com/wp-content/uploads/2021/05/Bee-in-7-Steps.jpg
